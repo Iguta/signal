@@ -1,0 +1,8 @@
+# Dependencies
+codebase/node_modules/
+
+# Production
+codebase/dist/
+
+# OS files
+**/.DS_Store
